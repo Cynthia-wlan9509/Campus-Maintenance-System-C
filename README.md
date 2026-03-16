@@ -44,5 +44,4 @@ To compile and run this system on your machine:
 
 ## 📬 Contact Information
 * **Email:** wlan9509@gmail.com
-* **Personal WeChat:** Cynthia_wlan9509
 * **GitHub:** [Cynthia-wlan9509](https://github.com/Cynthia-wlan9509)
