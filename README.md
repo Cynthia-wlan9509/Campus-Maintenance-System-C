@@ -1,5 +1,5 @@
 # Campus-Maintenance-System-C
-* *A colorful, terminal-based Campus Maintenance Management System built in C, featuring persistent file I/O and report generation.*
+A colorful, terminal-based Campus Maintenance Management System built in C, featuring persistent file I/O and report generation.*
 
 ## 💡 Project Overview
 This project is a coursework for my **COM102: Programming Language C** course. It is a lightweight Campus Maintenance Management System designed to handle repair requests, dispatch technicians, and generate formatted summary reports. 
@@ -28,9 +28,9 @@ To compile and run this system on your machine:
    ```bash
    gcc main.c -o campus_maintenance
 4. Run the executable:
-```bash
-./campus_maintenance
-```
+   ```bash
+   ./campus_maintenance
+   ```
 
 *(Note: The program will automatically generate `all_data_db.txt` and `new_requests.txt` in the same directory upon running.)*
 
