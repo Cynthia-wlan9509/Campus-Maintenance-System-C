@@ -2,7 +2,7 @@
 A colorful, terminal-based Campus Maintenance Management System built in C, featuring persistent file I/O and report generation.*
 
 ## 💡 Project Overview
-This project is a coursework for my **COM102: Programming Language C** course. It is a lightweight Campus Maintenance Management System designed to handle repair requests, dispatch technicians, and generate formatted summary reports. 
+This project is a coursework for my **Programming Language C** course. It is a lightweight Campus Maintenance Management System designed to handle repair requests, dispatch technicians, and generate formatted summary reports. 
 
 While it fulfills the academic requirements of a standard C assignment, I treated it as a professional engineering simulation by incorporating custom ANSI color coding for the terminal UI, persistent local file I/O (database generation), and robust memory/error handling.
 
